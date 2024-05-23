@@ -14,7 +14,7 @@ My specialty is developing business solutions for HCMs and ERPs. Over the past 8
 
 #### Education
 
-📚 Bachelor's Degree in Computer Information Systems 2022
+📚 Bachelor's Degree in Computer Information Systems 2022<br>
 📚 Specialization in Computer Databases (Lato Sensu Post-Graduate Program) 2023
 
 ##### 💬 Want to reach me?
