@@ -12,6 +12,11 @@ My specialty is developing business solutions for HCMs and ERPs. Over the past 8
 💻 PL/SQL Oracle<br>
 💻 Senior LSP (Proprietary Language Senior HCM/ERP)<br>
 
+#### Education
+
+📚 Bachelor's Degree in Computer Information Systems 2022
+📚 Specialization in Computer Databases (Lato Sensu Post-Graduate Program) 2023
+
 ##### 💬 Want to reach me?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/brenosilvaalves/) 
