@@ -2,7 +2,7 @@
 
 I am a software developer, enterprise consultant, and CEO currently living in Vila Velha, Brazil. 📍
 
-My specialty is developing business solutions for HCMs and ERPs. Over the past 8 years, I have worked extensively with software integration, data extraction, database administration and development, and more.
+My specialty is developing business solutions for Human Capital Management (HCM) and Enterprise Resource Planning (ERP) systems. Over the past eight years, I have gained extensive experience in software integration, data extraction, database administration, and development.
 
 ##### My current stack
 
