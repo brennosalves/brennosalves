@@ -1,5 +1,7 @@
 ### Hi, I'm Breno Alves 👋
 
+Calgary, Alberta, Canada.📍
+
 With over 8 years of experience as a software developer, I specialize in backend development and API integration. I have extensive experience with PL/SQL, creating queries, triggers, and stored procedures. Since 2018, I have developed APIs using Node.JS, leveraging my skills to build robust integrations. Recently, I have expanded my expertise to Go, developing APIs for seamless system integration.
 
 Throughout my career, I have worked on various projects that required deep technical knowledge and problem-solving skills. My focus has been on creating efficient and scalable backend solutions, ensuring seamless communication between different platforms. My background in software development allows me to understand and address complex technical challenges effectively.
